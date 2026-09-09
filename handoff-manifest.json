@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "adapta-cliente-handoff/v1",
+  "phase": 1,
+  "versions": {
+    "package": "0.9.3",
+    "adapta": "0.9.3",
+    "adaptaCliente": "0.9.3"
+  },
+  "generatedAt": "2026-09-09T17:58:15.709Z",
+  "files": [
+    {
+      "path": "04_fase-atual/fase.md",
+      "sha256": "917358085db17b8f35f668baeada056f9b789022ffda1c3d16d895c0eb773a7a",
+      "classification": "fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/SPEC-1-001-importacao-hubspot.md",
+      "sha256": "487d0025241b52ff01ef903a7563be94c321e5363193be7f74b23e7a5fad2f02",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/SPEC-1-002-projetos-kanban.md",
+      "sha256": "a451e8d2c9e7af23f5a2a28038662fff4960f44273e6b286d70115f6f045900b",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/SPEC-1-003-dashboard-baseline.md",
+      "sha256": "c3658467a809703b8b2b59d0bb03abead7267aa062bdf7af2e17a593c3b821c1",
+      "classification": "spec-fase-atual"
+    }
+  ]
+}
